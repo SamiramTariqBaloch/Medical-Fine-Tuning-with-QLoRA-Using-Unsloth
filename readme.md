@@ -1,28 +1,6 @@
-Task 2 Medical Fine-Tuning with QLoRA Using Unsloth
+Medical Fine-Tuning with QLoRA Using Unsloth
 
-A Complete, Step-by-Step README (Final Version)
-
-This README explains the full process I followed to fine-tune a medical language model using QLoRA, Unsloth, Google Colab, and Hugging Face. The document includes:
-
-A complete project overview
-
-Tools used
-
-Dataset details
-
-Training workflow
-
-Full Colab code
-
-Saving & evaluation
-
-Recommended hyperparameters
-
-Troubleshooting
-
-Ethics guidelines
-
-1. Project Overview
+. Project Overview
 
 In this task, the objective was to fine-tune a medical domain LLM using QLoRA through Unsloth’s optimized training pipeline in Google Colab.
 The chosen base model was a modern LLM such as Llama-3 or DeepSeek-R1.
